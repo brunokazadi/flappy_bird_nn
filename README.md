@@ -1,2 +1,2 @@
 # flappy_bird_nn
-Flappy Bird Artifiacial Neural Network 
+Flappy Bird Artificial Neural Network 
