@@ -11,7 +11,10 @@ Pygame
 NumPy
 SciPy
 ```
-You can install these dependencies using pip: pip install pygame numpy scipy
+You can install these dependencies using pip:
+``` python
+pip install pygame numpy scipy
+```
 
 Execute the Python script that runs the game player:
 ``` python
